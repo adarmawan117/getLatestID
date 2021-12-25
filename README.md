@@ -1,6 +1,6 @@
 # getLatestID
 
-
+Data di database menggunakan format "RSP-01"
 
 public String getLatestID() {
     int hasil = 0;
